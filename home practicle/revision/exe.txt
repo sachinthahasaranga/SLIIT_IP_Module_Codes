@@ -1,0 +1,17 @@
+block 1 - input A,B,C
+block 2 - if B=C
+block 3 - print "this is equilateral triangle"
+block 4 - print "this is isosceles triangle"
+block 5 - print" this is scalene triangle"
+   
+
+
+line 4- scanf("%d",&n);
+line 7- while(n<=0)
+line 12- printf("result is %d\n",ans);
+
+line 4- ans =1;
+line 5- scanf("%d",&n);
+line 9- ans=ans*n;
+line 10- n=n-1;
+line 12- printf("result is %d\n",ans);
